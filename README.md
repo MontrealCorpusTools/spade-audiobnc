@@ -1,3 +1,8 @@
+This is the repo for the SPADE AudioBNC cleaning script which makes a subset of high quality utterances from the corpus, split into speaker tiers.
+
+Running the pipeline
+--------------------
+
 To reproduce the dataset, all that's necessary is placing the requested
 textgrids in the `input` directory. You must have a symbolic link(or
 just a directory) to both the wav and textgrids directories, labeled
