@@ -1,0 +1,6 @@
+Signal_Analysis==0.1.26
+beautifulsoup4==4.6.0
+numpy==1.14.5
+scipy==1.1.0
+textgrid==1.4
+webrtcvad==2.0.10

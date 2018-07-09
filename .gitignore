@@ -1,0 +1,11 @@
+*.TextGrid
+*.wav
+bad_files.txt
+__pycache__
+corpus_for_mfa/*
+output/*
+pronunciation.txt
+phones
+phones.txt
+textgrid
+wavs
